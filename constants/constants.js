@@ -1,33 +1,26 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Rajeshwar Jeyaprakash';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `Front End  Developer`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+  Residence: 'India',
+  City: 'Palani',
+  Age: '25',
 };
 
 export const SKILLS = [
   {
-    title: 'MERN Stack Developer',
-    level: '75%',
+    title: 'React Developer',
+    level: '80%',
   },
   {
-    title: 'React Developer',
-    level: '91%',
+    title: 'Next js Developer',
+    level: '60%',
   },
-  // {
-  //   title: 'Desktop Application Developer',
-  //   level: '75%',
-  // },
+  
   {
     title: 'Backend Developer',
-    level: '54%',
-  },
-  {
-    title: 'Technical Blogger',
-    level: '83%',
+    level: '30%',
   },
 ];
 
@@ -40,28 +33,20 @@ export const TECH_STACK = [
   'Redux',
   'Zustand',
   'CSS',
-  'SCSS',
   'TailwindCSS',
-  'Ant Design',
   'Material UI',
-  'Next UI',
   'REST API',
   'MongoDB',
-  'MySQL',
   'Git',
   'GitHub',
-  'Jira',
   'Figma',
-  'Adobe XD',
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'rajeshwarjeyaprakash@gmail.com',
+  PHONE: '9976866379',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/Rajeshrr07',
+  LINKEDIN: 'https://www.linkedin.com/in/rajeshwar-jeyaprakash/',
 };

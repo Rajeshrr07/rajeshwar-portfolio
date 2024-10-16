@@ -15,9 +15,9 @@ const Edu_Card = ({ data }) => {
                 <div className="text-xs text-LightGray font-normal italic mt-1 ">
                     {data.degree}
                 </div>
-                <div className="text-LightGray text-sm font-normal mt-4 ">
+                {/* <div className="text-LightGray text-sm font-normal mt-4 ">
                     {data.detail}
-                </div>
+                </div> */}
             </div>
         </CardLayout>
     )

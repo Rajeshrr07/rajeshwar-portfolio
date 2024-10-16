@@ -9,11 +9,11 @@ const Exp_Card = ({ data }) => {
                 <div className="text-sm text-LightGray font-normal italic mt-1 ">
                     {data.role}
                 </div>
-                <div className="text-LightGray text-xs opacity-50 font-normal italic">
+                {/* <div className="text-LightGray text-xs opacity-50 font-normal italic">
                     <a href={`${data.url}`} target="_blank" rel="noreferrer">
                         {data.url}
                     </a>
-                </div>
+                </div> */}
                 <div className="text-LightGray text-sm font-normal mt-4 text-justify">
                     {data.desc}
                 </div>
