@@ -10,11 +10,11 @@
   
   <img src="./public/readme-images/moj.png" />
 
-  <h2 align="center">Muhammad Osama Javaid - Personal portfolio</h2>
+  <h2 align="center">Rajeshwar - Personal portfolio</h2>
 
 This website is fully responsive personal portfolio, <br />Responsive for all devices, built using Nextjs, TailwindCSS only.
 
-<a href="https://osamajavaid.vercel.app/"><strong>➥ Live Demo</strong></a>
+<!-- <a href="https://osamajavaid.vercel.app/"><strong>➥ Live Demo</strong></a> -->
 
 </div>
 
